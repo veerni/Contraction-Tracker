@@ -1,0 +1,7 @@
+{
+  "name": "Bloom - Contraction Tracker",
+  "description": "A privacy-focused, elegantly designed contraction tracker with real-time insights, labor guidance, and a soothing interface to support you through your exciting journey.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
